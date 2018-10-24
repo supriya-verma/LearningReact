@@ -1,0 +1,19 @@
+{
+  "name": "learningreact",
+  "version": "1.0.0",
+  "description": "this is a test directory for learning git and node",
+  "main": " index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supriya-verma/LearningReact.git"
+  },
+  "author": "supriya verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supriya-verma/LearningReact/issues"
+  },
+  "homepage": "https://github.com/supriya-verma/LearningReact#readme"
+}
