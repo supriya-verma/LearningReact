@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/supriya-verma/LearningReact/issues"
   },
-  "homepage": "https://github.com/supriya-verma/LearningReact#readme"
+  "homepage": "https://github.com/supriya-verma/LearningReact#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
